@@ -14,7 +14,7 @@ This Python script runs the path planning simulation.
 This Python file contains the RRT algorithm. It is used in generate_path.py.
 Note: few of the helper functions have been moved to this file from generate_path.py
 
-[Demo]('https://www.youtube.com/watch?v=NQN5HalmMlk')
+![Demo](https://www.youtube.com/watch?v=NQN5HalmMlk)
 ## Folder 2: `instance segmentation`
 
 ### Python File 1: `segment.py`
