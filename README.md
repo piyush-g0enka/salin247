@@ -1,14 +1,16 @@
-# salin247
-# Python Scripts Repository
+# salin247 code challenge
+
 
 This repository contains two folders, each containing Python scripts.
 
-## Folder 1: `folder1`
+## Folder 1: `path planning`
 
-### Python File 1: `script1.py`
+### Python File 1: `generate_path.py`
 
-This Python script does X, Y, and Z. To run it:
+This Python script runs the path planning simulation.
 
-1. Navigate to the `folder1` directory in your terminal.
-2. Run the script using the following command:
+### Python File 1: `generate_path.py`
+
+This Python file contains the RRT algorithm. It is used in generate_path.py.
+Note: few of the hepler functions have been moved to this file from generate_path.py
 
